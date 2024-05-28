@@ -1,7 +1,0 @@
-package: apiv1
-generate:
-  chi-server: true
-  models: true
-  embedded-spec: true
-  client: true
-output: api.gen.go
